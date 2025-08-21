@@ -1,5 +1,5 @@
 const index = (req , res) => {
-res.render('index',{title:'Manas (23EG107E09)'});
+res.render('index',{title:'WPM LAB INTERNAL'});
 };
 module.exports = {
 index

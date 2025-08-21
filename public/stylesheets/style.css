@@ -1,12 +1,13 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: blueviolet;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #d8c306;
+  text-shadow: #ad0609;
+  text-shadow: 4px 4px 4px#966869;
+  color: aquamarine;
+  text-align: center;
 }
 
 a {
   color: #00B7FF;
-}
-header{
-  font-size: larger; color: aqua;
 }
